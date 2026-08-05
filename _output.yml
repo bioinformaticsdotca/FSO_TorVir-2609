@@ -18,7 +18,7 @@ bookdown::gitbook:
          </a>
         <li><center><strong><a href="./"><br>Foundational Spatial 'Omics Analysis Workshop<br><br></a></strong></center></li>
         <a href="./">
-         <img src="img/missingimg.png" width="70%" alt="Foundational Spatial 'Omics Analysis Workshop logo" style="display:block; margin-left:auto; margin-right:auto; ">
+         <img src="img/FSO-logo.png" width="70%" alt="Foundational Spatial 'Omics Analysis Workshop logo" style="display:block; margin-left:auto; margin-right:auto; ">
          </a>
         <br>
 
@@ -31,6 +31,10 @@ bookdown::gitbook:
         <a href="https://www.ontariogenomics.ca/"><img src="img/sponsors/ontariogenomics.png" height="55" style="display:inline-block;" style="padding-bottom: 20px;" alt="Ontario Genomics logo.">
         <br><br>
         <a href="https://oicr.on.ca/"><img src="img/sponsors/oicr.png" width=35% style="display:inline-block;" style="padding-bottom: 20px" alt="Ontario Institute for Cancer Research logo.">
+        <a href="https://https://www.panoramics-a-vision.com/"><img src="img/sponsors/PanoramicsLogo.jpeg" width=35% style="display:inline-block;" style="padding-bottom: 20px" alt="Panoramics - A Vision logo.">
+        <br> <br>
+        <a href="https://https://www.uhn.ca/"><img src="img/sponsors/UHN Logo.png" width=35% style="display:inline-block;" style="padding-bottom: 20px" alt="University Health Network logo.">
+        <a href="https://https://www.hpcforhealth.ca/"><img src="img/sponsors/HPC-Logo.png" width=35% style="display:inline-block;" style="padding-bottom: 20px" alt="University Health Network logo.">
 
 
     edit: https://github.com/bioinformaticsdotca/FSO_TorVir-2609/blob/main/%s
