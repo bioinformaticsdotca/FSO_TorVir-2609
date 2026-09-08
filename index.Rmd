@@ -1,6 +1,6 @@
 --- 
 title: "Foundational Spatial 'Omics Analysis Workshop 2026"
-author: "Faculty: Shamini Ayyadhury, Alyona Ivanova, Ashleigh Willis"
+author: "Faculty: Shamini Ayyadhury, Alyona Ivanova, Melanie Peralta"
 date: "September 28-30, 2026"
 site: bookdown::bookdown_site
 documentclass: book
