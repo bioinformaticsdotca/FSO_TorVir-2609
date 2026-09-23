@@ -45,6 +45,8 @@ zhibin@gmail.com
 
 Zhibin Lu is a senior manager at University Health Network Digital. He is responsible for UHN HPC operations and scientific software. He manages two HPC clusters at UHN, including system administration, user management, and maintenance of bioinformatics tools for HPC4health. He is also skilled in Next-Gen sequence data analysis and has developed and maintained bioinformatics pipelines at the Bioinformatics and HPC Core. He is a member of the Digital Research Alliance of Canada Bioinformatics National Team and Scheduling National Team.
 
+## TA's
+
 #### Chaitra Sarathy, PhD (She/Her)
 
 <img src="./img/faculty/ChaitraSarathy.jpg" width="200" alt="Photo of Chaitra Sarathy">
@@ -66,4 +68,43 @@ Toronto, Ontario, Canada <br>
 dina.karamboulas@uhn.ca
 
 Dina is a Scientific Associate in the Uro-Oncology Research Unit at the University Health Network and holds a PhD in Anatomy & Cell Biology from the University of British Columbia (UBC). She specializes in computational genomics and bioinformatics, with expertise in analyzing single-cell and spatial omics datasets, including scRNA-seq, scATAC-seq, scMultiome-seq, Xenium, and MERSCOPE. Her work has focused on uncovering the molecular mechanisms underlying brain development and adult brain function. She has developed robust computational pipelines for large-scale data analysis using Python, R, and Linux-based workflows. As a part-time Data Analyst at Astraea Bio, she applies spatial transcriptomics approaches to identify cellular phenotypes and characterize tissue architecture. 
+
+
+#### Joan Kant 
+
+<img src="./img/faculty/JoanKant.jpeg" width="200" alt="Photo of Joan Kant">
+
+>Sr. Bioinformatics Analyst  <br>
+University Health Network <br>
+Toronto, Ontario, Canada <br>
+Joan.Kant@uhn.ca
+
+Joan obtained her BSc and MSc in Biomedical Engineering at Eindhoven University of Technology in The Netherlands. During her studies she became interested in using computational biology/bioinformatics to study cancer. In 2022, she moved to Toronto for an internship in the Gaiti Lab studying cell-cell-communication in glioblastoma using scRNAseq. Following her internship, she transitioned to a Bioinformatics Analyst role, and now leads the spatial omics analyses across multiple projects in the Gaiti Lab.
+
+
+## Facilitators
+
+#### Neha Ratti (she/her)
+
+<img src="./img/faculty/neha-ratti.jpg" width="200" alt="Photo of Neha Ratti">
+
+>Regional Coordinator, CBH Ontario <br>
+Canadian Bioinformatics Hub, University Health Network  <br>
+Toronto, ON, Canada 
+>
+> --- ontario@bioinformatics.ca 
+
+Neha is passionate about advancing bioinformatics and data science training across the province. With a strong background in project management, event coordination, and stakeholder engagement, she strives to create impactful initiatives that foster collaboration and skill development. Her experience in organizing training programs, developing policies, and building supportive environments enables her to contribute to Ontario’s leadership in the bioinformatics community. 
+
+#### Sian Brooks (she/her)
+
+<img src="./img/faculty/SianBrooks.JPG" width="200" alt="Photo of Sian Brooks">
+
+>Regional Coordinator, CBH Ontario <br>
+Canadian Bioinformatics Hub, University Health Network  <br>
+Toronto, ON, Canada 
+>
+> --- ontario@bioinformatics.ca 
+
+Sian Brooks is the Ontario Co-Regional Coordinator for the Canadian Bioinformatics Hub. With over eight years of experience in the healthcare field and a background in office administration and event coordination, Sian brings a steady, detail-oriented approach to program delivery. She is committed to fostering a collaborative and supportive environment for trainees and researchers alike, helping to strengthen Ontario's standing within the national bioinformatics community.
 
