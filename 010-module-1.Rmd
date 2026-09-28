@@ -8,7 +8,7 @@
 -->
 
 ### Lecture 1a
-<iframe src="https://drive.google.com/drive/u/3/folders/1BGb9JPB2X4hWV0Kk-uVk3tl4v3TEF6hj/preview" width="640" height="480" allow="autoplay"></iframe>  
+<iframe src="https://docs.google.com/presentation/d/1NMMYJ6kmw8d2ahF58vy4FnjJ3rroc6Ul/preview" width="640" height="480" allow="autoplay"></iframe>  
 -->
 
 ### Lecture 1b
