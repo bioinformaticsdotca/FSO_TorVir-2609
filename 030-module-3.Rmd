@@ -2,5 +2,7 @@
 
 ## Lecture
 
+<iframe src="https://docs.google.com/presentation/d/1Jr1diayJLL3WIGZH00PjeGEyvb00I_MJ/preview" width="640" height="480" allow="autoplay"></iframe>  
+
 
 ## Lab
