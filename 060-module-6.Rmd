@@ -2,5 +2,9 @@
 
 ## Lecture
 
+<iframe src="https://docs.google.com/presentation/d/1TOoodqS5yNpOUiBjJbgzJPpizap3Dbjc/preview" width="640" height="480" allow="autoplay"></iframe>  
+
 
 ## Lab
+
+ [Module 6 Lab Script](https://drive.google.com/file/d/1m0Ywor0jn3JyHytvyebqLx8Hk8nG-EEG/view?usp=sharing) 
