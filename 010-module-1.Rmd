@@ -1,6 +1,6 @@
 # (PART) Modules {-}
 
-# Module 1
+# Module 1  Garbage In, Garbage Out
 
 ## Lecture
 

@@ -1,4 +1,4 @@
-# Module 4
+# Module 4 Drawing Boundaries: The Segmentation Problem
 
 ## Lecture
 
