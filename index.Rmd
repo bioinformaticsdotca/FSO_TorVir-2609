@@ -26,7 +26,9 @@ Welcome to the 2026 Foundational Spatial 'Omics Analysis Workshop Canadian Bioin
 
 ## Class Photo
 
-Coming soon! 
+<img src="./img/faculty/classphototoronto.JPG" width="100%" height="1000" allow="autoplay"></iframe>
+
+<img src="./img/faculty/classphotovirtual.png" width="100%" height="500" allow="autoplay"></iframe>
 
 ## Schedule
 
