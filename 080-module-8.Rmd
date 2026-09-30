@@ -2,5 +2,10 @@
 
 ## Lecture
 
+<iframe src="https://docs.google.com/presentation/d/1sToIaHQhRzOEVlGLr1-1eh34nbAejOma/preview" width="640" height="480" allow="autoplay"></iframe>  
+
 
 ## Lab
+
+
+ [Module 8 Lab Script](https://drive.google.com/file/d/1lYkTJUVKtFZhoESwwl4dvj_8MmmgKtuf/view?usp=sharing) 
